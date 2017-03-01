@@ -10,5 +10,6 @@
   	<module>factory2</module>
   	<module>factory3</module>
   	<module>builder</module>
+  	<module>prototype</module>
   </modules>
 </project>
