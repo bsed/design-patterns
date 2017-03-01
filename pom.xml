@@ -8,5 +8,6 @@
   	<module>composite</module>
   	<module>factory</module>
   	<module>factory2</module>
+  	<module>factory3</module>
   </modules>
 </project>
