@@ -11,5 +11,6 @@
   	<module>factory3</module>
   	<module>builder</module>
   	<module>prototype</module>
+  	<module>singleton</module>
   </modules>
 </project>
