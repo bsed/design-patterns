@@ -5,5 +5,5 @@
     <artifactId>models</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>factory3</artifactId>
+  <artifactId>chain</artifactId>
 </project>
