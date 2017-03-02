@@ -1,5 +1,11 @@
 package chain;
 
+/**
+ * 系主任
+ * 
+ * @author kelvin
+ *
+ */
 public class DepartmentHead extends Leader {
 	public DepartmentHead(String name) {
 		super(name);
