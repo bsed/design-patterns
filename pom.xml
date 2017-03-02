@@ -19,5 +19,6 @@
   	<module>FlyweightFactory</module>
   	<module>flyweight</module>
   	<module>proxy</module>
+  	<module>chain</module>
   </modules>
 </project>
